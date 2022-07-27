@@ -5,3 +5,19 @@ This project contains the notebook and data files for the capstone project I com
 [The proposal document can be found here](https://github.com/imspartikus/Udacity-ML-capstone/blob/main/Proposal.pdf)
 
 The provided transcript.json file is too large for the github repo but can be found on the udacity site for the Starbucks capstone course. 
+
+This project uses the following external libraries, please use pip or conda to install before running
+ pandas
+ numpy
+ math
+ json
+ %matplotlib
+ seaborn
+ sklearn
+ 
+ In addition this project uses the following algorithms and compares F1 scores:
+  K Neighbors Classifier
+  Random Forest Classifier
+  Balanced Random Forest Classifier
+  Decision Tree Classifier
+ 
