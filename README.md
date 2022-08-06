@@ -4,6 +4,8 @@ This project contains the notebook and data files for the capstone project I com
 
 [The proposal document can be found here](https://github.com/imspartikus/Udacity-ML-capstone/blob/main/Proposal.pdf)
 
+[The project report document can be found here](https://github.com/imspartikus/Udacity-ML-capstone/blob/main/starbucks_capstone_project_report.pdf)
+
 [The project file can be found here](https://github.com/imspartikus/Udacity-ML-capstone/blob/main/Starbucks_Capstone_notebook.ipynb)
 The provided transcript.json file is too large for the github repo but can be found on the udacity site for the Starbucks capstone course. 
 
